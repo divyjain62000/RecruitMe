@@ -1,0 +1,22 @@
+insert into branch (id,name,program_id,branch_code) values
+(1,"Computer Science Engineering",1,"CSE"),
+(2,"Computer and Communication Engineering",1,"IT"),
+(3,"Information Technology",1,"CSE"),
+(4,"Computer Science Engineering with Specialization in Big Data Analytics (in association with IBM)",1,"CSE-BDA"),
+(5,"Computer Science Engineering with Specialization in Cloud & Mobile Computing (in association with IBM)",1,"CSE-CMC"),
+(6,"Computer Science Engineering with specialization in Artificial Intelligence (in association with IBM)",1,"CSE-AI"),
+(7,"Computer Science Engineering with specialization in Data Science (in association with IBM)",1,"CSE-DS"),
+(8,"Computer Science Engineering with specialization in FullStack Development & Blockchain (in association with IBM)",1,"CSE-FDB"),
+(9,"Computer Science Engineering with specialization in Enterprise System (in association with Red Hat)",1,"CSE-ES"),
+(10,"Computer Science Engineering with specialization in Information and Cyber Security (in association with NCSSS).",1,"CSE-NCSSS"),
+(11,"Computer Science Engineering with specialization in Mobile Applications (in association with Apple - AATCE)",1,"CSE-AATCSE"),
+(12,"Computer Science Engineering with specialization in Computer Science and Business Systems (in association with TCS)",1,"CSE-TCS"),
+(13,"Computer Science Engineering with specialization in Big Data and Cloud Engineering (in association with Impetus)",1,"CSE-Impetus"),
+(14,"Computer Science Engineering with specialization in Artificial Intelligence & Machine Learning (in association with Microsoft (India) Pvt. Ltd.)",1,"CSE-Microsoft"),
+(15,"Information Technology with Specialization in Data Science (in association with IBM)",1,"IT-DS"),
+(16,"Information Technology with Specialization FullStack Development & Blockchain (in association with IBM)",1,"IT-FDB"),
+(17,"Interior Design",2,"ID"),
+(18,"Architectural Design",2,"AD"),
+(19,"B.Sc With Agriculature",3,"Agrc."),
+(20,"B.Sc With  Computer Science",3,"Agrc.")
+;
